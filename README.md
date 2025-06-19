@@ -6,3 +6,6 @@ Aprendiendo rust.
 rustc main.rs
 
 ./main
+
+
+Link: https://quickref.me/rust
